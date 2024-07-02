@@ -1,0 +1,10 @@
+path: 'your/dataset/root' # dataset root dir
+train: train/images/path  # train images (relative to 'path')
+val: validation/images/path  # val images (relative to 'path')
+
+# Classes
+names:
+  0: kolye
+  1: port
+  2: cihaz
+  3: endo
